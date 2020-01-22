@@ -1,0 +1,17 @@
+{
+  "name": "elasticsearch-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeIndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "elasticsearch": "^16.6.0",
+    "fs": "0.0.1-security",
+    "highland": "^2.13.5"
+  }
+}
